@@ -1,0 +1,23 @@
+{
+  "repo": "lunacy-graphic-editor-suite",
+  "product": "Lunacy Graphic Editor Suite",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "lunacy-graphic-editor",
+    "lunacy-graphic",
+    "how-to-install-lunacy-graphic",
+    "how-to-setup-lunacy-graphic",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "lunacy-editor",
+    "text-editing"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Lunacy Graphic Editor Suite"
+}
